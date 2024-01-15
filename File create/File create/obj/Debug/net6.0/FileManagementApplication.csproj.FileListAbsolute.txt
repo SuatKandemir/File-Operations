@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\bin\Debug\net6.0\FileManagementApplication.exe
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\bin\Debug\net6.0\FileManagementApplication.deps.json
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\bin\Debug\net6.0\FileManagementApplication.runtimeconfig.json
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\bin\Debug\net6.0\FileManagementApplication.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\bin\Debug\net6.0\FileManagementApplication.pdb
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\refint\FileManagementApplication.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.pdb
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\FileManagementApplication.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\File create\File create\obj\Debug\net6.0\ref\FileManagementApplication.dll
